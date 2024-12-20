@@ -1,5 +1,5 @@
-users = ['adithya', 'sugir', 'jamal']
-pins = ['2006', '2006', '2006']
+users = ['adithya', 'sugir', 'jamal','prasath']
+pins = ['2006', '2006', '2006','2006']
 amounts = [10000, 20000, 30000]
 count = 0
 while True:
